@@ -1,0 +1,16 @@
+module.exports=[
+    {
+        title:"数据类型",
+        collapsable:true,
+        children:[
+            "/javascript/datatype"
+        ]
+    },
+    {
+        title:"数据类型",
+        collapsable:true,
+        children:[
+            "/javascript/datatype"
+        ]
+    }
+]
