@@ -1,0 +1,37 @@
+module.exports=[
+    {
+        title:"字符串（String）",
+        collapsable:true,
+        children:[
+            "/javascript/base/datatype/string"
+        ]
+    },
+    {
+        title:"数值（Number）",
+        collapsable:true,
+        children:[
+            "/javascript/base/datatype/number"
+        ]
+    },
+    {
+        title:"数组（Array）",
+        collapsable:true,
+        children:[
+            "/javascript/base/datatype/array"
+        ]
+    },
+    {
+        title:"函数（Function）",
+        collapsable:true,
+        children:[
+            "/javascript/base/datatype/function"
+        ]
+    },
+    {
+        title:"对象（Object）",
+        collapsable:true,
+        children:[
+            "/javascript/base/datatype/object"
+        ]
+    },
+]
