@@ -3,35 +3,35 @@ module.exports=[
         title:"String",
         collapsable:true,
         children:[
-            "/javascript/base/datatype/string"
+            "javascript/base/datatype/string"
         ]
     },
     {
         title:"Number",
         collapsable:true,
         children:[
-            "/javascript/base/datatype/number"
+            "javascript/base/datatype/number"
         ]
     },
     {
         title:"Array",
         collapsable:true,
         children:[
-            "/javascript/base/datatype/array"
+            "javascript/base/datatype/array"
         ]
     },
     {
         title:"Function",
         collapsable:true,
         children:[
-            "/javascript/base/datatype/function"
+            "javascript/base/datatype/function"
         ]
     },
     {
         title:"Object",
         collapsable:true,
         children:[
-            "/javascript/base/datatype/object"
+            "javascript/base/datatype/object"
         ]
     },
 ]
