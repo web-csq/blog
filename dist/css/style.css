@@ -4,6 +4,6 @@
     width: 12rem;
     height: 6rem;
     content:"";
-    background: url("/img/banner.jpg") no-repeat;
+    background: url("/blog/img/banner.jpg") no-repeat;
     background-size: 100% 100%;
 }
