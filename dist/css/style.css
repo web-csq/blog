@@ -1,0 +1,9 @@
+.sidebar:before{
+    display: block;
+    margin: 1.5rem auto 0;
+    width: 12rem;
+    height: 6rem;
+    content:"";
+    background: url("/img/banner.jpg") no-repeat;
+    background-size: 100% 100%;
+}

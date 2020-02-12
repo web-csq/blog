@@ -8,7 +8,7 @@ module.exports={
         ["link",{rel:"stylesheet",href:"/css/style.css"}],
         ["script",{charset:"utf-8",src:"/js/main.js"}]
     ],
-    dest:"./dest",//默认在 .vuepress 
+    dest:"./dist",//默认在 .vuepress 
     markdown:{
         lineNumbers:false
     },

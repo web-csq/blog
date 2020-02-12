@@ -1,8 +1,8 @@
-# 字面量表达式
+# API
 
 ```javascript
-
-    let a ="h";
     let b="hello world";
+
+    b.
 
 ```
