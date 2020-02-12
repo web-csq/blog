@@ -6,24 +6,24 @@ module.exports=[ // 导航栏配置
             {
                 text:"基础必备",
                 items:[
-                    { text:"数据类型/API",link:"javascript/base/datatype/"},
+                    { text:"数据类型/API",link:"/javascript/base/datatype/"},
                 ]
             },
             {
                 text:"核心知识",
                 items:[
-                    { text:"正则表达式",link:"javascript/core/regexp/"},
-                    { text:"OOP",link:"javascript/core/oop/"},
-                    { text:"es5",link:"javascript/core/es5/"},
-                    { text:"es6",link:"javascript/core/es6/"},
+                    { text:"正则表达式",link:"/javascript/core/regexp/"},
+                    { text:"OOP",link:"/javascript/core/oop/"},
+                    { text:"es5",link:"/javascript/core/es5/"},
+                    { text:"es6",link:"/javascript/core/es6/"},
                 ]
             },
             {
                 text:"高级进阶",
                 items:[
-                    { text:"vue",link:"javascript/high/vue/"},
-                    { text:"angular",link:"javascript/high/angular/"},
-                    { text:"react",link:"javascript/high/react/"},
+                    { text:"vue",link:"/javascript/high/vue/"},
+                    { text:"angular",link:"/javascript/high/angular/"},
+                    { text:"react",link:"/javascript/high/react/"},
                 ]
             }
         ]
@@ -35,10 +35,10 @@ module.exports=[ // 导航栏配置
                 text:"内置模块",
                 items:[
                     {
-                        text:"path",link:"nodejs/built/path/"
+                        text:"path",link:"/nodejs/built/path/"
                     },
                     {
-                        text:"fs",link:"nodejs/built/fs/"
+                        text:"fs",link:"/nodejs/built/fs/"
                     },
                 ]
             },
@@ -46,7 +46,7 @@ module.exports=[ // 导航栏配置
                 text:"第三方模块",
                 items:[
                     {
-                        text:"express",link:"nodejs/third/express/"
+                        text:"express",link:"/nodejs/third/express/"
                     },
                 ]
             },
@@ -54,10 +54,10 @@ module.exports=[ // 导航栏配置
                 text:"包管理",
                 items:[
                     {
-                        text:"npm",link:"nodejs/package/npm/"
+                        text:"npm",link:"/nodejs/package/npm/"
                     },
                     {
-                        text:"yarn",link:"nodejs/package/yarn/"
+                        text:"yarn",link:"/nodejs/package/yarn/"
                     },
                 ]
             }
@@ -67,10 +67,10 @@ module.exports=[ // 导航栏配置
         text: 'web server',
         items:[
             {
-                text:"nginx",link:"webserver/nginx/"
+                text:"nginx",link:"/webserver/nginx/"
             },
             {
-                text:"apache",link:"webserver/apache/"
+                text:"apache",link:"/webserver/apache/"
             }
         ]
     },
@@ -78,12 +78,12 @@ module.exports=[ // 导航栏配置
         text: '数据库',
         items:[
             {
-                text:"MySql",link:"database/mysql/"
+                text:"MySql",link:"/database/mysql/"
             },
         ]
     },
-    { text: '文章笔记', link: 'article/' },
-    { text: '开发工具', link: 'tools/' },
+    { text: '文章笔记', link: '/article/' },
+    { text: '开发工具', link: '/tools/' },
     { 
         text: '其他链接', 
         items:[
