@@ -9,7 +9,7 @@ module.exports={
         ["script",{charset:"utf-8",src:"/js/main.js"}]
     ],
     dest:"./dist",//默认在 .vuepress 
-    base:"/blog/",
+    base:"./",
     markdown:{
         lineNumbers:false
     },
