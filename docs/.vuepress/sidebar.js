@@ -1,5 +1,5 @@
 module.exports={
-    "/javascript/base/datatype/":require("../javascript/base/datatype/sidebar"),
+    "/javascript/bundle/webpack/":require("../javascript/bundle/webpack/sidebar"),
     
     "/javascript/core/regexp/":require("../javascript/core/regexp/sidebar"),
     "/javascript/core/es5/":require("../javascript/core/es5/sidebar"),

@@ -4,9 +4,9 @@ module.exports=[ // 导航栏配置
         text: 'javascript', 
         items:[
             {
-                text:"基础必备",
+                text:"打包相关",
                 items:[
-                    { text:"数据类型/API",link:"/javascript/base/datatype/"},
+                    { text:"webpack",link:"/javascript/bundle/webpack/"},
                 ]
             },
             {

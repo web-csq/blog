@@ -4,7 +4,7 @@ heroImage: /img/hero.png
 heroText: 从点滴做起
 tagline: 一寸光阴一寸金，寸金难买寸光阴
 actionText: 走上王者之路 →
-actionLink: /javascript/base/datatype/
+actionLink: /javascript/bundle/webpack/
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
