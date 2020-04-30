@@ -9,7 +9,7 @@
 
 #### 安装教程
 
-git bash https://gitee.com/webcsq/person_blog.git
+git bash https://gitee.com/webcsq/blog.git
 
 
 #### 使用说明
